@@ -4,6 +4,6 @@ Source code for a live stream where I rebuilt the [Transistor.fm registration pa
 
 Recordings of the live stream below:
 
-[Part 1: Building the UI with Tailwind](https://www.youtube.com/edit?o=U&video_id=l3GHggI3_z8)
+[Part 1: Building the UI with Tailwind](https://www.youtube.com/watch?v=l3GHggI3_z8)
 
-[Part 2: Making it interactive and responsive](https://www.youtube.com/edit?o=U&video_id=Qm80M0HPxl8)
+[Part 2: Making it interactive and responsive](https://www.youtube.com/watch?v=Qm80M0HPxl8)
