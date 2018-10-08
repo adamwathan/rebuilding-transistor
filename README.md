@@ -1,16 +1,9 @@
-# Transistor Styles
+# Rebuilding Transistor.fm with Tailwind CSS and Vue.js
 
-## Colors
+Source code for a live stream where I rebuilt the [Transistor.fm registration page](https://dashboard.transistor.fm/signup) using [tailwindcss](https://github.com/tailwindcss/tailwindcss) and [vue-cli](https://github.com/vuejs/vue-cli).
 
-Dark Blue: hsl(210, 50%, 9%)
-Foreground Blue: hsl(210, 49%, 15%)
-Focus Blue: hsl(210, 47%, 19%)
-Text Tertiary: hsl(210, 22%, 48%)
-Text Secondary: hsl(210, 22%, 77%)
+Recordings of the live stream below:
 
-Button Yellow: hsl(42, 97%, 66%)
-Text Yellow/Border Yellow: hsl(42, 100%, 36%)
+[Part 1: Building the UI with Tailwind](https://www.youtube.com/edit?o=U&video_id=l3GHggI3_z8)
 
-## Font
-
-Inter UI
+[Part 2: Making it interactive and responsive](https://www.youtube.com/edit?o=U&video_id=Qm80M0HPxl8)
