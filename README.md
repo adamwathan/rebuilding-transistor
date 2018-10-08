@@ -1,21 +1,16 @@
-# transistor-sign-up
+# Transistor Styles
 
-## Project setup
-```
-yarn install
-```
+## Colors
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+Dark Blue: hsl(210, 50%, 9%)
+Foreground Blue: hsl(210, 49%, 15%)
+Focus Blue: hsl(210, 47%, 19%)
+Text Tertiary: hsl(210, 22%, 48%)
+Text Secondary: hsl(210, 22%, 77%)
 
-### Compiles and minifies for production
-```
-yarn run build
-```
+Button Yellow: hsl(42, 97%, 66%)
+Text Yellow/Border Yellow: hsl(42, 100%, 36%)
 
-### Lints and fixes files
-```
-yarn run lint
-```
+## Font
+
+Inter UI
